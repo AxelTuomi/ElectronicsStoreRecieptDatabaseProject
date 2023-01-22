@@ -1,5 +1,5 @@
 # ElectronicsStoreRecieptDatabaseProject
-In this project I want to create a database and a program manipulating it that handles reciepts at a Electronics themed store.
+In this project I want to create a database and a program manipulating it that handles reciepts at a electronics themed store.
 ## Database Requirements
 - A Customers table (id, name, adress...)
 - A Reciepts table (id, customerid, productid, name, price, tax, date, adress, warranty...)
